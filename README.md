@@ -30,6 +30,7 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 
 ### 🖥️ **Programming Languages**
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/> 
