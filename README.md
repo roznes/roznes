@@ -50,7 +50,7 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 ### 🗄️ **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/sqlserver-dark.svg" alt="SQL Server" width="40" height="40"/>
 </p>
 
 ### 🛡️ **Cloud & DevOps**
