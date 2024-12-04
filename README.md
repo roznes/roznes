@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Yutpichai Eenron (roznes)</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
@@ -71,18 +70,32 @@ Here are some ideas to get you started:
 ### **PRO-toys Co., Ltd.** (Mar 2023 - Present)  
 **Programmer**  
 - Built multi-platform applications for professional photo services, enhancing user interaction.
-- Integrated AI tools like **LLama3.2** for chat and text-to-speech features, improving user engagement.
-- Developed a payment gateway using **GB Prime Pay API** and implemented AWS Rekognition for secure facial verification.
+- **Key Projects**:  
+  - **Extreme Photo**: Cross-platform application for professional photo services on Windows, Linux, and Web.  
+  - **AI Chat and Text-to-Speech**: Integrated **LLama3.2** for intelligent customer support.  
+  - **AWS Rekognition Integration**: Enhanced application security with facial verification.  
+  - **Payment Gateway Integration**: Developed solutions using **GB Prime Pay API** with React and PHP Laravel.  
+
+---
 
 ### **Ban Suzuki Co., Ltd.** (Jan 2021 - Feb 2023)  
 **Programmer**  
-- Created scalable web applications using **Java Server Page (JSP)** and maintained business operation systems.
-- Developed mobile applications using **Ionic Angular**, streamlining field staff operations.
+- Developed and optimized web and mobile applications for enhanced business operations.  
+- **Key Projects**:  
+  - **Credit Consideration System (CssApp)**: Automated credit application evaluations using **Java Server Page (JSP)**, ensuring faster and reliable decisions.  
+  - **Internal Workflow Enhancement (Srisuk Management System)**: Created a web-based system to streamline workflows, improving data accuracy and reducing processing time.  
+  - **CRMS Online**: Developed a comprehensive call room management system with advanced monitoring tools for resource optimization.  
+  - **Bill Collection Mobile App**: Designed a mobile app using **Ionic Angular** to simplify daily payment collections for field staff.  
+
+---
 
 ### **Triple P Applications Co., Ltd.** (Nov 2019 - Dec 2020)  
 **Technical Consultant (ERP Programmer)**  
-- Customized ERP solutions for high-profile clients like **ITAL THAI** and **SCB 10X**.
-- Developed advanced reporting tools and integrated APIs for system automation.
+- Delivered tailored ERP solutions for high-profile clients like **ITAL THAI**, **SCB 10X**, and **GMM Oshopping**.  
+- **Key Projects**:  
+  - **ERP Module Customization**: Designed and delivered ERP modules to improve workflows.  
+  - **Dynamic Reporting**: Built advanced reports with **Microsoft Report Builder** for business insights.  
+  - **OData API Integration**: Implemented **OData v4** APIs for seamless system communication.  
 
 ---
 
@@ -95,10 +108,10 @@ Here are some ideas to get you started:
 ---
 
 📜 **Notable Projects**
-- **📸 Multi-Camera Controller**: Built a Windows Forms application to manage multiple camera feeds seamlessly.  
+- **📸 Multi-Camera Controller**: Developed a Windows Forms application to manage multiple camera feeds seamlessly.  
 - **🎡 Photo Booth Kiosk Software**: Designed an intuitive photo booth application for editing and printing photos.  
 - **🔐 AWS Rekognition Integration**: Implemented secure facial verification features.  
-- **💳 Payment Gateway Integration**: Developed a payment gateway using PHP Laravel and React.  
+- **💳 Payment Gateway Integration**: Built a payment gateway solution using PHP Laravel and React.  
 
 ---
 
