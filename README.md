@@ -143,7 +143,8 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=roznes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roznes&theme=tokyonight" alt="GitHub Streak" width="450"/>  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roznes&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="450"/>
+</p>   
 
 ---
 
