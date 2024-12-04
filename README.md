@@ -30,41 +30,40 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 
 ### 🖥️ **Programming Languages**
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </p>
 
 ### 🏗️ **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/fastapi.svg" alt="FastAPI" width="40" height="40"/> </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
 </p>
 
 ### 🗄️ **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/sqlserver-dark.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>
 </p>
 
 ### 🛡️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </p>
 
 ### 🖥️ **Operating Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </p>
 
 ---
