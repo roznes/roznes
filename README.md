@@ -45,6 +45,7 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
   <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/fastapi.svg" alt="FastAPI" width="40" height="40"/> </p>
 </p>
 
 ### 🗄️ **Databases**
