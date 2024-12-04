@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ---
 
 🎯 **About Me**  
-- 👨‍💻 I'm a Software Engineer with 4+ years of experience in building high-quality, scalable web and desktop applications.
-- 💡 I specialize in Python, React, TypeScript, and Java, and I enjoy working on both front-end and back-end development.
-- 🌱 Currently learning and experimenting with **AI/ML** and advanced cloud-based solutions.
-- 🛠️ Passionate about solving problems and delivering innovative solutions through software development.
+- 👨‍💻 A passionate Software Engineer with 4+ years of experience specializing in **Python**, **React**, **TypeScript**, **Electron.js**, **C#**, and **PHP Laravel**.
+- 💡 Skilled in building scalable, high-quality web and desktop applications, with expertise in both front-end and back-end development.
+- 🌱 Currently exploring advanced **AI/ML** solutions and cloud-based technologies.
+- 🚀 Dedicated to solving real-world problems through innovative software development.
 
 ---
 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
 ### **Frameworks & Libraries**  
@@ -65,20 +66,39 @@ Here are some ideas to get you started:
 
 ---
 
-📜 **Notable Projects**  
-Here are some of my recent and impactful projects:
+💼 **Experience**
 
-- **📸 Multi-Camera Controller**:  
-  Developed a C# application to manage multiple camera feeds seamlessly, enabling real-time control and switching for operational efficiency.  
+### **PRO-toys Co., Ltd.** (Mar 2023 - Present)  
+**Programmer**  
+- Built multi-platform applications for professional photo services, enhancing user interaction.
+- Integrated AI tools like **LLama3.2** for chat and text-to-speech features, improving user engagement.
+- Developed a payment gateway using **GB Prime Pay API** and implemented AWS Rekognition for secure facial verification.
 
-- **🎡 Photo Booth Kiosk Software**:  
-  Designed an intuitive software for photo kiosks to capture, edit, and print photos, ideal for events and retail environments.  
+### **Ban Suzuki Co., Ltd.** (Jan 2021 - Feb 2023)  
+**Programmer**  
+- Created scalable web applications using **Java Server Page (JSP)** and maintained business operation systems.
+- Developed mobile applications using **Ionic Angular**, streamlining field staff operations.
 
-- **🔐 AWS Rekognition Integration**:  
-  Integrated AWS Rekognition for secure facial verification in applications, enhancing security and user trust.  
+### **Triple P Applications Co., Ltd.** (Nov 2019 - Dec 2020)  
+**Technical Consultant (ERP Programmer)**  
+- Customized ERP solutions for high-profile clients like **ITAL THAI** and **SCB 10X**.
+- Developed advanced reporting tools and integrated APIs for system automation.
 
-- **💳 Payment Gateway with GB Prime Pay**:  
-  Built a payment gateway solution using PHP Laravel backend and React TypeScript frontend for seamless and secure online transactions.  
+---
+
+🎓 **Education**  
+- **Bachelor of Science in Information and Communication Technology**  
+  *Prince of Songkla University, 2015 - 2019*  
+  - Specialized in software development and IT solutions.  
+  - Key Technologies: PHP, HTML, CSS, JavaScript, MySQL.
+
+---
+
+📜 **Notable Projects**
+- **📸 Multi-Camera Controller**: Built a Windows Forms application to manage multiple camera feeds seamlessly.  
+- **🎡 Photo Booth Kiosk Software**: Designed an intuitive photo booth application for editing and printing photos.  
+- **🔐 AWS Rekognition Integration**: Implemented secure facial verification features.  
+- **💳 Payment Gateway Integration**: Developed a payment gateway using PHP Laravel and React.  
 
 ---
 
@@ -90,9 +110,9 @@ Here are some of my recent and impactful projects:
 ---
 
 📫 **Let's Connect!**  
-
 - **Email**: yutpichai.eenron@gmail.com  
 - **Location**: Bangkok, Thailand  
 - **GitHub**: [roznes](https://github.com/roznes)  
 
 Feel free to explore my repositories for more of my work and insights into my development journey. 🚀
+
