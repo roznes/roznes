@@ -15,117 +15,142 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Yutpichai Eenron (roznes)</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+# 👋 Hello, I'm Yutpichai Eenron!  
+
+🚀 **Software Engineer** | 🌟 Passionate about delivering high-quality software solutions | 🌍 Based in Bangkok, Thailand  
 
 ---
 
-🎯 **About Me**  
-- 👨‍💻 A passionate Software Engineer with 4+ years of experience specializing in **Python**, **React**, **TypeScript**, **Electron.js**, **C#**, and **PHP Laravel**.
-- 💡 Skilled in building scalable, high-quality web and desktop applications, with expertise in both front-end and back-end development.
-- 🌱 Currently exploring advanced **AI/ML** solutions and cloud-based technologies.
-- 🚀 Dedicated to solving real-world problems through innovative software development.
+## 💡 **About Me**  
+I'm a Software Engineer with 4+ years of experience specializing in Python, React, TypeScript, PHP, Java, and C#. I build robust web and desktop applications, streamline workflows, and integrate AI solutions to enhance user engagement and system performance.  
 
 ---
 
-📌 **Technologies I Work With**
+## 🛠️ **Skills & Technologies**
 
-### **Languages**  
+### 🖥️ **Programming Languages**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/> 
 </p>
 
-### **Frameworks & Libraries**  
+### 🏗️ **Frameworks & Libraries**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> 
 </p>
 
-### **Tools & Platforms**  
+### 🗄️ **Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft Tools" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" width="40" height="40"/> 
 </p>
 
-### **Databases**  
+### 🛡️ **Cloud & DevOps**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> 
+</p>
+
+### 🖥️ **Operating Systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/> 
 </p>
 
 ---
 
-💼 **Experience**
+## 💼 **Experience**  
 
-### **PRO-toys Co., Ltd.** (Mar 2023 - Present)  
+### **PRO-toys Co., Ltd.** *(Mar 2023 - Present)*  
 **Programmer**  
-- Built multi-platform applications for professional photo services, enhancing user interaction.
-- **Key Projects**:  
-  - **Extreme Photo**: Cross-platform application for professional photo services on Windows, Linux, and Web.  
-  - **AI Chat and Text-to-Speech**: Integrated **LLama3.2** for intelligent customer support.  
-  - **AWS Rekognition Integration**: Enhanced application security with facial verification.  
-  - **Payment Gateway Integration**: Developed solutions using **GB Prime Pay API** with React and PHP Laravel.  
+- Conducted research and development of web and desktop applications.  
+- Collaborated with product teams to implement innovative solutions.  
+
+#### **Key Projects:**  
+- **Extreme Photo (Arun Photo):** Cross-platform applications for professional photo services.  
+- **AI Chat & Text-to-Speech (LLama3.2):** AI integration for customer engagement.  
+- **AWS Rekognition:** Secure facial comparison and verification.  
+- **Multi-Camera Controller:** Real-time management for multiple cameras.  
+- **Photo Booth Software:** Kiosk software for photo taking, editing, and printing.  
+- **Payment Gateway Integration:** Secure payments via **GB Prime Pay API** with Laravel backend and React frontend.  
 
 ---
 
-### **Ban Suzuki Co., Ltd.** (Jan 2021 - Feb 2023)  
+### **Ban Suzuki Co., Ltd.** *(Jan 2021 - Feb 2023)*  
 **Programmer**  
-- Developed and optimized web and mobile applications for enhanced business operations.  
-- **Key Projects**:  
-  - **Credit Consideration System (CssApp)**: Automated credit application evaluations using **Java Server Page (JSP)**, ensuring faster and reliable decisions.  
-  - **Internal Workflow Enhancement (Srisuk Management System)**: Created a web-based system to streamline workflows, improving data accuracy and reducing processing time.  
-  - **CRMS Online**: Developed a comprehensive call room management system with advanced monitoring tools for resource optimization.  
-  - **Bill Collection Mobile App**: Designed a mobile app using **Ionic Angular** to simplify daily payment collections for field staff.  
+- Developed and maintained web application systems to enhance business operations and improve efficiency.  
+- Specialized in **Java (JSP Servlet)** as the primary language for developing scalable and robust web solutions.  
+- Collaborated with cross-functional teams to deliver efficient and optimized systems tailored to business needs.
+
+#### **Key Projects:**  
+- **Credit Consideration System (CssApp):** Automated credit evaluations using **Java (JSP Servlet)** to improve decision-making speed and reliability.  
+- **Internal Workflow Enhancement (Srisuk Management System):** Designed a web-based solution to streamline internal workflows, reducing manual processes and increasing accuracy.  
+- **CRMS Online:** Developed a comprehensive call room management system with advanced reporting and monitoring tools for better resource allocation.  
+- **Bill Collection Mobile App:** Built a mobile application using **Ionic Angular** for seamless payment collection by field staff, enhancing productivity.  
+
+#### **Technologies Used:**  
+- **Main Language:** Java (JSP Servlet)  
+- **Back-End:** SQL Server, MySQL  
+- **Front-End:** JavaScript, jQuery, Ajax, Bootstrap  
+- **Mobile Development:** Ionic Angular  
+- **Additional Tools:** RESTful APIs, Advanced Reporting Tools  
 
 ---
 
-### **Triple P Applications Co., Ltd.** (Nov 2019 - Dec 2020)  
+### **Triple P Applications Co., Ltd.** *(Nov 2019 - Dec 2020)*  
 **Technical Consultant (ERP Programmer)**  
-- Delivered tailored ERP solutions for high-profile clients like **ITAL THAI**, **SCB 10X**, and **GMM Oshopping**.  
-- **Key Projects**:  
-  - **ERP Module Customization**: Designed and delivered ERP modules to improve workflows.  
-  - **Dynamic Reporting**: Built advanced reports with **Microsoft Report Builder** for business insights.  
-  - **OData API Integration**: Implemented **OData v4** APIs for seamless system communication.  
+- Customized ERP software and developed tailored modules.  
+- Delivered ERP solutions to high-profile clients, including ITAL THAI, SCB 10X, GMM Oshopping, Domino Pizza, and Thai Medical Group 88.  
+
+#### **Key Projects:**  
+- **ERP Module Customization:** Improved workflows by tailoring ERP functionalities to specific business needs.  
+- **API Integration and System Automation:** Developed APIs and automation solutions, enhancing operational efficiency.  
+- **Dynamic Reporting:** Designed advanced reports using **Microsoft Report Builder**.  
+- **OData v4 Implementation:** Built API solutions for seamless ERP communication.  
+
+#### **Technologies Used:**  
+- **ERP Tools:** Microsoft Dynamics 365 Business Central, Microsoft Dynamic NAV  
+- **Additional Tools:** Node.js, Socket.io, PHP cURL, API OData v4  
 
 ---
 
-🎓 **Education**  
-- **Bachelor of Science in Information and Communication Technology**  
-  *Prince of Songkla University, 2015 - 2019*  
-  - Specialized in software development and IT solutions.  
-  - Key Technologies: PHP, HTML, CSS, JavaScript, MySQL.
+### **Electricity Generating Authority of Thailand (EGAT)** *(May 2018 - Aug 2018)*  
+**Internship (IT Support)**  
+- Provided IT support for hardware and software troubleshooting.  
+- Built small-scale web applications using **PHP, HTML, CSS, JavaScript,** and **MySQL**.  
 
 ---
 
-📜 **Notable Projects**
-- **📸 Multi-Camera Controller**: Developed a Windows Forms application to manage multiple camera feeds seamlessly.  
-- **🎡 Photo Booth Kiosk Software**: Designed an intuitive photo booth application for editing and printing photos.  
-- **🔐 AWS Rekognition Integration**: Implemented secure facial verification features.  
-- **💳 Payment Gateway Integration**: Built a payment gateway solution using PHP Laravel and React.  
+## 📚 **Education**  
+
+🎓 **Prince of Songkla University** *(2015 - 2019)*  
+- Bachelor of Science in Information and Communication Technology  
 
 ---
 
-📊 **GitHub Stats**  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=roznes&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+## 📈 **GitHub Stats**  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=roznes&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roznes&theme=tokyonight" alt="GitHub Streak" width="450"/>  
+</p>  
 
 ---
 
-📫 **Let's Connect!**  
-- **Email**: yutpichai.eenron@gmail.com  
-- **Location**: Bangkok, Thailand  
-- **GitHub**: [roznes](https://github.com/roznes)  
+## 🌱 **What I'm Learning**  
+- Deepening knowledge of **AI/ML** for customer engagement.  
+- Exploring **cloud platforms** and **DevOps** practices for better scalability.  
 
-Feel free to explore my repositories for more of my work and insights into my development journey. 🚀
+---
 
+## 📫 **Connect with Me**  
+- 💌 Email: yutpichai.eenron@gmail.com  
+- 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/roznes)  
+- 🌟 GitHub: [roznes](https://github.com/roznes)  
