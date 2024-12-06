@@ -156,5 +156,5 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 
 ## 📫 **Connect with Me**  
 - 💌 Email: yutpichai.eenron@gmail.com  
-- 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/roznes)  
+- 🌐 LinkedIn: [roznes](https://linkedin.com/in/roznes)  
 - 🌟 GitHub: [roznes](https://github.com/roznes)  
