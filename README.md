@@ -90,6 +90,21 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
   - Enabled precise timing and real-time triggering to generate a smooth, multi-angle freeze-frame effect.  
   - Supported camera array management, status monitoring, and frame synchronization.
 
+### **FastAPI for ComfyUI – AI Image Generation Tools**  
+Developed FastAPI-based backends to integrate and control ComfyUI workflows for generating and processing AI-driven images, enabling a suite of creative visual features:
+
+- 🎨 **Style-based Generation:**  
+  Automated generation of stylized images with ComfyUI workflows (Cartoon, Anime, Pixel Art, Retro Tone) using prompt templates and dynamic parameters.
+
+- 🧑‍🤝‍🧑 **FaceSwap Utility:**  
+  Built a FaceSwap pipeline utilizing ComfyUI + InsightFace models, allowing facial identity replacement in real-time batch image processing.
+
+- 🧼 **Background Removal:**  
+  Integrated segmentation models (e.g., SAM, MODNet) with ComfyUI via FastAPI to enable clean background removal for portraits and product shots.
+
+- 🕹️ **Frontend Integration:**  
+  Created simple UIs for internal teams using React to select styles, upload inputs, and retrieve results directly from the FastAPI endpoints.
+
 ---
 
 ### **Ban Suzuki Co., Ltd.** *(Jan 2021 - Feb 2023)*  
