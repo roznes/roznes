@@ -84,6 +84,11 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 - **Multi-Camera Controller:** Real-time management for multiple cameras.  
 - **Photo Booth Software:** Kiosk software for photo taking, editing, and printing.  
 - **Payment Gateway Integration:** Secure payments via **GB Prime Pay API** with Laravel backend and React frontend.  
+- **🎥 Multi-Camera Controller for Bullet Time (Windows Desktop App):**  
+  Developed a C# Windows Forms application to control and synchronize an array of DSLR cameras for cinematic bullet time video capture.  
+  - Used in the production of the music video **[LISA – ROCKSTAR](https://youtu.be/hbcGx4MGUMg?t=53)** at [00:53](https://youtu.be/hbcGx4MGUMg?t=53) timestamp.  
+  - Enabled precise timing and real-time triggering to generate a smooth, multi-angle freeze-frame effect.  
+  - Supported camera array management, status monitoring, and frame synchronization.
 
 ---
 
