@@ -73,7 +73,7 @@ I'm a Software Engineer with 4+ years of experience specializing in Python, Reac
 ## 💼 **Experience**  
 
 ### **PRO-toys Co., Ltd.** *(Mar 2023 - Present)*  
-**Programmer**  
+**Research and Development Engineer**  
 - Conducted research and development of web and desktop applications.  
 - Collaborated with product teams to implement innovative solutions.  
 
@@ -108,7 +108,7 @@ Developed FastAPI-based backends to integrate and control ComfyUI workflows for 
 ---
 
 ### **Ban Suzuki Co., Ltd.** *(Jan 2021 - Feb 2023)*  
-**Programmer**  
+**Java Developer**  
 - Developed and maintained web application systems to enhance business operations and improve efficiency.  
 - Specialized in **Java (JSP Servlet)** as the primary language for developing scalable and robust web solutions.  
 - Collaborated with cross-functional teams to deliver efficient and optimized systems tailored to business needs.
